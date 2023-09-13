@@ -1,0 +1,10 @@
+C:\Users\Администратор\Desktop\Lab3_0ВТд4110_Karel\Lab3_0ВТд4110_Karel\bin\Debug\Lab3_0ВТд4110_Karel.exe.config
+C:\Users\Администратор\Desktop\Lab3_0ВТд4110_Karel\Lab3_0ВТд4110_Karel\bin\Debug\Lab3_0ВТд4110_Karel.exe
+C:\Users\Администратор\Desktop\Lab3_0ВТд4110_Karel\Lab3_0ВТд4110_Karel\bin\Debug\Lab3_0ВТд4110_Karel.pdb
+C:\Users\Администратор\Desktop\Lab3_0ВТд4110_Karel\Lab3_0ВТд4110_Karel\obj\Debug\Lab3_0ВТд4110_Karel.csprojAssemblyReference.cache
+C:\Users\Администратор\Desktop\Lab3_0ВТд4110_Karel\Lab3_0ВТд4110_Karel\obj\Debug\Lab3_0ВТд4110_Karel.Form1.resources
+C:\Users\Администратор\Desktop\Lab3_0ВТд4110_Karel\Lab3_0ВТд4110_Karel\obj\Debug\Lab3_0ВТд4110_Karel.Properties.Resources.resources
+C:\Users\Администратор\Desktop\Lab3_0ВТд4110_Karel\Lab3_0ВТд4110_Karel\obj\Debug\Lab3_0ВТд4110_Karel.csproj.GenerateResource.cache
+C:\Users\Администратор\Desktop\Lab3_0ВТд4110_Karel\Lab3_0ВТд4110_Karel\obj\Debug\Lab3_0ВТд4110_Karel.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Lab3_0ВТд4110_Karel\Lab3_0ВТд4110_Karel\obj\Debug\Lab3_0ВТд4110_Karel.exe
+C:\Users\Администратор\Desktop\Lab3_0ВТд4110_Karel\Lab3_0ВТд4110_Karel\obj\Debug\Lab3_0ВТд4110_Karel.pdb
